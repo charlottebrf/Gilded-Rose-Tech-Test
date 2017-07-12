@@ -51,6 +51,14 @@ As there's been such a short time frame, I've decided to document my decision pr
 
 4. Separate Item class into it's own file & spec. Update GildedRose class to receive this as an injected class to better decouple these two separate classes.
 
+5. Take one of the factors that lowers the item value, e.g.  Once sell by date is passed - quality degrades twice as fast.
+
+6. Try to follow the thread of this item going through the whole method.
+
+7. Repeat this for all of the factors which lower the requirements.
+
+8. Another approach could be to look for repetition. Try to spot the
+
 
 
 # My Future Approach with more time
