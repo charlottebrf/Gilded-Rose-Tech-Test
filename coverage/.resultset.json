@@ -70,15 +70,40 @@
         null,
         null,
         null,
+        null
+      ],
+      "/Users/charlottefereday/Development/Week_10/Gilded-Rose-Tech-Test/spec/item_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         1,
         1,
+        1,
+        null,
         null,
         1,
         1,
         1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/charlottefereday/Development/Week_10/Gilded-Rose-Tech-Test/lib/item.rb": [
         1,
+        1,
+        null,
+        1,
+        4,
+        4,
+        4,
         null,
         null,
         1,
@@ -87,6 +112,6 @@
         null
       ]
     },
-    "timestamp": 1499867585
+    "timestamp": 1499868982
   }
 }
